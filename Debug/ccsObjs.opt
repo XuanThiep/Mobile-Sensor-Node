@@ -1,0 +1,1 @@
+"./GSM_MQTT.o" "./hdc1080.o" "./Mobile Node Using SIM 800L.o" -Wl,--start-group -lMSP-EXP430F5529LP_M2XStreamClient -lMSP-EXP430F5529LP_DriverLib -lMSP-EXP430F5529LP_aJson -lMSP-EXP430F5529LP_core -lm -Wl,--end-group 
